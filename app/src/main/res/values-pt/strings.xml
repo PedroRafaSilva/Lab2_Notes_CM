@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes_CM</string>
+    <string name="EmptyNoteMessage">Por favor, insira uma nota</string>
+    <string name="EmptyDateMessage">Por favor, insira uma data</string>
+    <string name="EmptyDescriptionMessage">Por favor, insira uma descrição</string>
+    <string name="DescriptionLengthMessage">A descrição deve ter mais de 5 caracteres</string>
+    <string name="NoteCreatedMessage">Nota criada com sucesso!</string>
+    <string name="NoteUpdatedMessage">Nota atualizada com sucesso!</string>
+    <string name="NoteDeletedMessage">Nota eliminada com sucesso!</string>
+    <string name="Yes">Sim</string>
+    <string name="No">Não</string>
+    <string name="DeleteNoteTitle">Eliminar Nota</string>
+    <string name="DeleteNoteMessage">Tem certeza de que deseja eliminar esta nota?</string>
+    <string name="NoteDetailsTitle">Detalhes da Nota</string>
+    <string name="NoteHint">Nota</string>
+    <string name="DateHint">Data</string>
+    <string name="DescriptionHint">Descrição</string>
+    <string name="SaveButton">Salvar</string>
+    <string name="BackButton">Voltar</string>
+    <string name="DeleteButton">Eliminar</string>
+</resources>

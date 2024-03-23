@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Notes_CM</string>
+    <string name="EmptyNoteMessage">Please enter a note</string>
+    <string name="EmptyDateMessage">Please enter a date</string>
+    <string name="EmptyDescriptionMessage">Please enter a description</string>
+    <string name="DescriptionLengthMessage">Description must be longer than 5 characters</string>
+    <string name="NoteCreatedMessage">Note created successfully!</string>
+    <string name="NoteUpdatedMessage">Note updated successfully!</string>
+    <string name="NoteDeletedMessage">Note deleted successfully!</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="DeleteNoteTitle">Delete Note</string>
+    <string name="DeleteNoteMessage">Are you sure you want to delete this note?</string>
+    <string name="NoteDetailsTitle">Note Details</string>
+    <string name="NoteHint">Note</string>
+    <string name="DateHint">Date</string>
+    <string name="DescriptionHint">Description</string>
+    <string name="SaveButton">Save</string>
+    <string name="BackButton">Back</string>
+    <string name="DeleteButton">Delete</string>
+</resources>
